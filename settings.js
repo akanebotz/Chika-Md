@@ -27,21 +27,21 @@ global.premium = ['6281333582723'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6281333582723' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Fhmy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Oshino-MC' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Fhmy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'fhmy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Oshino-Mc' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'fhmy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/oshinobot'
+global.myweb = 'https://s.id/chikabot'
 global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Oshino-MC' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© Oshino-Mc' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'fhmy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
